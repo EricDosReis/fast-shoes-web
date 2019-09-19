@@ -13,12 +13,11 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased;
     font-family: "Roboto", "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI",
       "Oxygen", "Helvetica Neue", Arial, sans-serif;
-    font-size: 100%;
+    font-size: 90%;
   }
 
   input, button {
     font-family: inherit;
-    font-size: 1em;
   }
 
   button {
